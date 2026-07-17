@@ -1,0 +1,79 @@
+RU:
+
+Это мой стол
+Судя по всему я написала что-то на этой бумажке
+ВООУ это записка от меня для меня
+И там написано
+"Привет Я Латтирин из прошлого и я написала эту записку для тебя"
+"В том случае если ты люто облажешься"
+"С этой Воспоминание-Стирательной фигней"
+"Я написала здесь немного базовой инфы про тебя"
+"тебя завут Латтирин коротко Латти"
+"тебе 15 лет"
+"Ты АРХИДЕМОН"
+"Пороль от ГНУ ДС эио имя тавого ЛУТШЕГО ДРУГА"
+"И на это все"
+"честно говоря я не знаю зачем я написала это записку"
+"потомушто Я знаю что ты не можешь проебаться с настолько простым заданием"
+"Ты слишком умная и милая девочка для этого"
+"Надеюсь что ты хотя бы просто смещься"
+"читая это прямо сейчас так что моя старания не напрасны"
+"Ну удачи и хорошего дня Латтирин из Будущего"
+Да я была так права тогда
+Мне дяже не нужна была это записка с самого начала
+
+И вот я здесь
+Ахх так приятно
+просто дайте мне уже засунуть картридж
+Ииииии
+ПАРОЛЬ???
+ВЫ БЛЯТЬ ИЗДЕВАЕТЕСЬ??!
+Похоже на то что я стерла все воспоминания об этом пароле
+ЧЕРТ!!!
+
+
+
+
+
+
+
+
+
+
+
+
+ENG:
+
+Lattirin (normal): It's my table
+Lattirin (look_left): It seems that I wrote down something on this paper
+Lattirin (cheer): WOW It's a note from me to me
+Lattirin (normal): And It says
+Lattirin (force_calm): "Hi I'm Lattirin from the past and wrote this note for you"
+Lattirin (force_calm): "In case you are heavily messed up"
+Lattirin (force_calm): "with this Memory removing thing"
+Lattirin (force_calm): "I wrote down here some essential info about you"
+Lattirin (force_calm): "your name is Lattirin in short Latti"
+Lattirin (force_calm): "you are 15 years old"
+Lattirin (force_calm): "you are an ARCHFIEND"
+Lattirin (force_calm): "GNU DS password is name of your BEST FRIEND"
+Lattirin (force_calm): "And so thats it"
+Lattirin (force_calm): "honestly I don't know why I wrote this note"
+Lattirin (force_calm): "cause I know you can't messed up with such an easy task"
+Lattirin (cheer_closed_eyes): "You are too clever and nice girl for it"
+Lattirin (force_calm): "Hope you At least having fun"
+Lattirin (force_calm): "reading it right now so my efforts are not pointless"
+Lattirin (cheer_closed_eyes): "So good luck and have a nice day Lattirin from the future!"
+Lattirin (cheer): Yeah I was so right back then
+Lattirin (happy): I dont even needed this note in the first place
+
+Lattirin (cheer_closed_eyes): and a here I came
+do g.dialog_music_play("res://music/first_exprression.ogg")
+[signal arg="lie_bed"]
+Lattirin (happy): Ahh.. so comfy
+Lattirin (happy): just let me insert the cartridge
+Lattirin (cheer): And...
+do g.dialog_music_play("res://music/sounds/piano_fuck_up.wav")
+Lattirin (pain): PASSWORD???
+Lattirin (angry_scream): ARE YOU FUCKING KIDDING ME??!
+Lattirin (poker): It seems that I erased all memories about this password
+Lattirin (angry): DAMMIT!!!
